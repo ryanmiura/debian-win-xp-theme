@@ -1,0 +1,1 @@
+# Windows XP theme script for Debian distros
